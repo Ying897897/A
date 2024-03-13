@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>商品信息</title>
+    <title>商品信息12432354</title>
 </head>
 <body>
     <h2>商品信息</h2>
